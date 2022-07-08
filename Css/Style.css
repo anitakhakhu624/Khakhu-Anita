@@ -1,0 +1,51 @@
+
+h1{
+    color:pink;
+    font-size:60px;
+    margin-top:10px;
+    border: 10px purple dotted;
+    border: blue;
+    padding: 20px;
+}
+ul{
+  color:pink;
+  font-size:40px;
+  margin-top:10px;
+  padding:10px;
+  border: 5px blue solid;
+  border: purple;
+  transition:0.3s ease;
+}
+ol{
+  color:pink;
+  font-size:40px;
+  margin-top:10px;
+  border:5px blue solid;
+  border:purple;
+  transition:0.3s ease;
+}
+
+p{
+  font-size:30px;
+  color:yellow;
+  border:10px yellow dotted;
+}
+.myclass{
+  background-color:pink;
+}
+li:hover{
+  font-size: 3em;
+}
+img{
+  border:10px yellow solid;
+  width: 500px;
+  height:200px;
+}
+body{
+  background-color:purple;
+}
+li{transition:0,3s ease;
+}
+li{
+  transition:0.3s ease;
+}
